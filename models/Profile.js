@@ -80,7 +80,7 @@ const ProfileSchema = new mongoose.Schema({
       },
     },
   ],
-  socialmedia: {
+  social: {
     youtube: {
       type: String,
     },
